@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636303177 source:d:\study\bscs (dcs-ubit, university of karachi)\4th semester\data structures\data structures implementation\dynamic lists\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+
